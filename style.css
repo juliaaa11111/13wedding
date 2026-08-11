@@ -1,0 +1,109 @@
+class="timeline-item">
+
+                    <div class="time">
+                        15:00
+                    </div>
+
+                    <div class="event">
+
+                        <p class="event-label">
+                            Праздник
+                        </p>
+
+                        <h3>
+                            Праздничный банкет
+                        </h3>
+
+                        <p>
+                            ул. Дорожная, 50
+                        </p>
+
+                        <p>
+                            2 этаж
+                        </p>
+
+                        <a
+                            class="map-btn"
+                            href="https://yandex.ru/maps/?text=Маркс%20Дорожная%2050"
+                            target="_blank"
+                            rel="noopener">
+                            Открыть карту
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ПОЖЕЛАНИЯ -->
+
+    <section class="section wishes">
+
+        <div class="container">
+
+            <p class="section-mini">
+                WITH LOVE
+            </p>
+
+            <h2>
+                Пожелания
+            </h2>
+
+            <div class="gold-line"></div>
+
+            <div class="wish-card">
+
+                <p>
+
+               «Ваше присутствие — самый дорогой подарок для нас. Пусть этот день станет общей памятью, которую мы будем бережно хранить в сердцах».
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ФИНАЛ -->
+
+    <footer>
+
+        <div class="container">
+
+            <p class="footer-mini">
+                WITH LOVE
+            </p>
+
+            <h2>
+                Будем ждать встречи с вами
+            </h2>
+
+            <div class="gold-line"></div>
+
+            <div class="footer-names">
+                Юлия
+                <span>&amp;</span>
+                Виталий
+            </div>
+
+            <p class="footer-date">
+                24 октября 2026
+            </p>
+
+        </div>
+
+    </footer>
+
+    <!-- JAVASCRIPT -->
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
